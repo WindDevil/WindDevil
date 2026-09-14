@@ -6,11 +6,11 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems engineer at [Cambricon](https://github.com/Cambricon) (Beijing). I work mostly in **C, C++ and Rust**, across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
 
 > [!IMPORTANT]
-> **I'm looking for PhD opportunities.**
-> **Part-time / in-service PhD positions in Beijing** · **Full-time PhD positions anywhere.**
-> Research directions: **AI Infra & Operating Systems**, and **Embodied Intelligence**.
-> Research collaborations and part-time roles in these areas are welcome as well.
-> Feel free to reach me at [1160712160@qq.com](mailto:1160712160@qq.com).
+> **I'm looking for PhD positions and academic collaborations.**
+> PhD: part-time / in-service in **Beijing**, or full-time **anywhere**.
+> Research directions: **AI Infra & Operating Systems** · **Embodied Intelligence**.
+> Also open to joint projects and part-time roles in these areas.
+> Reach me at [1160712160@qq.com](mailto:1160712160@qq.com).
 
 I like turning hard-won debugging knowledge into reproducible practice material, and that is what most of my repositories exist for:
 
