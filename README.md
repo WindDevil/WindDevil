@@ -37,7 +37,7 @@ Before that I received my Master's degree from UESTC (University of Electronic S
 
 ![WindDevil](./profile-3d-contrib/profile-season-animate.svg)
 
-<img height="200" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindDevil&layout=donut&theme=tokyonight&langs_count=8&exclude_repo=Driver_status_detection&hide=html,css,javascript,typescript,stylus,makefile,cmake,dockerfile" />
+![Most used languages](./profile-languages.svg)
 
 </div>
 
