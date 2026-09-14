@@ -5,6 +5,8 @@
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems engineer at [Cambricon](https://github.com/Cambricon) (Beijing). I work mostly in **C, C++ and Rust**, across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
 
+During my Master's I collaborated with [Huawei HiSilicon](https://www.hisilicon.com/en/) on research through an in-group project. I also interned with [Qualcomm](https://www.qualcomm.com/)'s IoT team, and on a joint project between [Quancheng Laboratory](https://github.com/qclic) and [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I worked on ArceOS-based OS and driver infrastructure — the line my [igb-driver](https://github.com/WindDevil/igb-driver) and [arceos_igb_driver](https://github.com/WindDevil/arceos_igb_driver) repositories continue today. I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
+
 > [!IMPORTANT]
 > **I'm looking for PhD positions and academic collaborations.**
 > PhD: part-time / in-service in **Beijing**, or full-time **anywhere**.
@@ -26,8 +28,6 @@ I'm also interested in **how AI reshapes everyday engineering workflows**. **Cla
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes-6E4AFF?style=for-the-badge)
-
-During my Master's I collaborated with [Huawei HiSilicon](https://www.hisilicon.com/en/) on research through an in-group project. I also interned with [Qualcomm](https://www.qualcomm.com/)'s IoT team, and on a joint project between [Quancheng Laboratory](https://github.com/qclic) and [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I worked on ArceOS-based OS and driver infrastructure — the line my [igb-driver](https://github.com/WindDevil/igb-driver) and [arceos_igb_driver](https://github.com/WindDevil/arceos_igb_driver) repositories continue today. I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
 
 **Contact:** [1160712160@qq.com](mailto:1160712160@qq.com)
 
