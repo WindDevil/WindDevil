@@ -86,9 +86,10 @@ COLORS = {
     "Zig": "#ec915c",
 }
 
-BACKGROUND = "#0d1117"
-FOREGROUND = "#e6edf3"
-MUTED = "#8b949e"
+# Keep the same look as the 3D contribution chart it sits next to.
+BACKGROUND = "#ffffff"
+FOREGROUND = "#00000f"
+MUTED = "#57606a"
 
 
 def api_get(url: str):

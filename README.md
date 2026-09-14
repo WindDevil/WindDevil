@@ -46,10 +46,11 @@ Counting of visitors to this page in this section started on 2026-09-14:
 ![](https://komarev.com/ghpvc/?username=WindDevil&style=for-the-badge&color=blue)
 </br>
 
-<!-- github-readme-stats cards, enable them whenever you want a numbers-first header:
-<div style="text-align: center;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=WindDevil&show_icons=true&theme=tokyonight" />
-</div>
+<!--
+Third-party cards (github-readme-stats and friends) are intentionally not used:
+GitHub's image proxy fails to fetch them often enough that the profile shows a
+broken image, so both charts here are generated inside this repository by
+tools/generate_languages_svg.py and the profile-3d-contrib action.
 -->
 
 <!-- Currently Working on: -->
