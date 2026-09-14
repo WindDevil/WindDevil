@@ -16,6 +16,8 @@ Beyond that I write Rust drivers — mainly for the Intel igb network controller
 
 Before that I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
 
+**Contact:** [1160712160@qq.com](mailto:1160712160@qq.com)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
