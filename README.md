@@ -27,7 +27,7 @@ I'm also interested in **how AI reshapes everyday engineering workflows**. **Cla
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes-6E4AFF?style=for-the-badge)
 
-During my Master's I collaborated with [Huawei HiSilicon](https://www.hisilicon.com/en/) on research through an in-group project. I also interned with [Qualcomm](https://www.qualcomm.com/)'s IoT team, and on a joint project between [Quancheng Laboratory](https://github.com/qclic) and [Tsinghua University](https://www.tsinghua.edu.cn/en/). I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
+During my Master's I collaborated with [Huawei HiSilicon](https://www.hisilicon.com/en/) on research through an in-group project. I also interned with [Qualcomm](https://www.qualcomm.com/)'s IoT team, and on a joint project between [Quancheng Laboratory](https://github.com/qclic) and [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I worked on ArceOS-based OS and driver infrastructure — the line my [igb-driver](https://github.com/WindDevil/igb-driver) and [arceos_igb_driver](https://github.com/WindDevil/arceos_igb_driver) repositories continue today. I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
 
 **Contact:** [1160712160@qq.com](mailto:1160712160@qq.com)
 
