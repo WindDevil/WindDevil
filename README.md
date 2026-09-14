@@ -12,7 +12,7 @@ I like turning hard-won debugging knowledge into reproducible practice material,
 
 Both are spec-driven: a single specification generates the initial exercise, the reference solution and the reset template, a dependency-free Python CLI drives the daily workflow, and CI proves that every exercise starts unsolved while every answer passes.
 
-Beyond that I write Rust drivers for network and storage controllers — igb / Phytium MAC among them, with [ArceOS](https://github.com/WindDevil/arceos_igb_driver) and the [rCore tutorial](https://github.com/WindDevil/rCore-Tutorial-Code-2024S) as my playgrounds — tinker with embedded boards (STM32, ESP32, RT-Thread), and build small tools for daily life, such as [wx-dump-plus](https://github.com/WindDevil/wx-dump-plus) and [WeFlow](https://github.com/WindDevil/WeFlow) for exporting WeChat chat history. I keep notes at [my blog](https://www.cnblogs.com/chenhan-winddevil) (in Chinese).
+Beyond that I write Rust drivers — mainly for the Intel igb network controller, with [ArceOS](https://github.com/WindDevil/arceos_igb_driver) as the unikernel playground — tinker with embedded boards (ESP32 + RT-Thread, STM32), and keep a couple of small utilities around, such as the WeChat chat-history exporters [wx-dump-plus](https://github.com/WindDevil/wx-dump-plus) and [WeFlow](https://github.com/WindDevil/WeFlow). I keep notes at [my blog](https://www.cnblogs.com/chenhan-winddevil) (in Chinese).
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
