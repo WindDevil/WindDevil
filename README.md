@@ -3,7 +3,7 @@
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems programmer based in Chengdu, China. I spend most of my time across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems programmer based in Chengdu, China. I work mostly in **C, C++ and Rust**, across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
 
 I like turning hard-won debugging knowledge into reproducible practice material, and that is what most of my repositories exist for:
 
@@ -15,6 +15,7 @@ Both are spec-driven: a single specification generates the initial exercise, the
 Beyond that I write Rust drivers — mainly for the Intel igb network controller, with [ArceOS](https://github.com/WindDevil/arceos_igb_driver) as the unikernel playground — tinker with embedded boards (ESP32 + RT-Thread, STM32), and keep a couple of small utilities around, such as the WeChat chat-history exporters [wx-dump-plus](https://github.com/WindDevil/wx-dump-plus) and [WeFlow](https://github.com/WindDevil/WeFlow). I keep notes at [my blog](https://www.cnblogs.com/chenhan-winddevil) (in Chinese).
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![POSIX](https://img.shields.io/badge/POSIX-4E9A06?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -35,7 +36,7 @@ Counting of visitors to this page in this section started on 2026-09-14:
 <!-- github-readme-stats cards, enable them whenever you want a numbers-first header:
 <div style="text-align: center;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=WindDevil&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindDevil&layout=compact&theme=tokyonight&hide=html" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindDevil&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,javascript,typescript,stylus,makefile,shell" />
 </div>
 -->
 
