@@ -5,6 +5,12 @@
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems engineer at [Cambricon](https://github.com/Cambricon) (Beijing). I work mostly in **C, C++ and Rust**, across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
 
+> [!IMPORTANT]
+> **I'm looking for PhD opportunities in Beijing — full-time or part-time (全职 / 在职博士).**
+> Research directions: **AI Infra & Operating Systems**, and **Embodied Intelligence**.
+> Research collaborations and part-time roles in these areas are welcome as well.
+> Feel free to reach me at [1160712160@qq.com](mailto:1160712160@qq.com).
+
 I like turning hard-won debugging knowledge into reproducible practice material, and that is what most of my repositories exist for:
 
 - **[clings](https://github.com/WindDevil/clings)** — 185 hands-on C exercises across 20 topics, from `Hello, C!` to pointers, memory, the preprocessor, undefined behaviour and C11/C17 features.
