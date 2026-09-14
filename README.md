@@ -3,7 +3,7 @@
 > [!NOTE]
 > Welcome to my repositories. I hope you can enjoy everything here.
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems programmer based in Chengdu, China. I work mostly in **C, C++ and Rust**, across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px">, I'm **WindDevil**, a systems engineer at [Cambricon](https://github.com/Cambricon) (Beijing). I work mostly in **C, C++ and Rust**, across Linux user space and the kernel: system calls, POSIX APIs, device drivers, and the toolchains that glue them together.
 
 I like turning hard-won debugging knowledge into reproducible practice material, and that is what most of my repositories exist for:
 
@@ -12,7 +12,9 @@ I like turning hard-won debugging knowledge into reproducible practice material,
 
 Both are spec-driven: a single specification generates the initial exercise, the reference solution and the reset template, a dependency-free Python CLI drives the daily workflow, and CI proves that every exercise starts unsolved while every answer passes.
 
-Beyond that I write Rust drivers — mainly for the Intel igb network controller, with [ArceOS](https://github.com/WindDevil/arceos_igb_driver) as the unikernel playground — tinker with embedded boards (ESP32 + RT-Thread, STM32), and keep a couple of small utilities around, such as the WeChat chat-history exporters [wx-dump-plus](https://github.com/WindDevil/wx-dump-plus) and [WeFlow](https://github.com/WindDevil/WeFlow). I keep notes at [my blog](https://www.cnblogs.com/chenhan-winddevil) (in Chinese).
+Beyond that I write Rust drivers — mainly for the Intel igb network controller, with [ArceOS](https://github.com/WindDevil/arceos_igb_driver) as the unikernel playground — and tinker with embedded boards (ESP32 + RT-Thread, STM32). I keep notes at [my blog](https://www.cnblogs.com/chenhan-winddevil) (in Chinese).
+
+Before that I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,6 +28,8 @@ Beyond that I write Rust drivers — mainly for the Intel igb network controller
 
 ![WindDevil](./profile-3d-contrib/profile-season-animate.svg)
 
+<img height="200" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindDevil&layout=donut&theme=tokyonight&langs_count=10&hide=html,css,javascript,typescript,stylus,makefile,shell,dockerfile" />
+
 </div>
 
 Counting of visitors to this page in this section started on 2026-09-14:
@@ -36,7 +40,6 @@ Counting of visitors to this page in this section started on 2026-09-14:
 <!-- github-readme-stats cards, enable them whenever you want a numbers-first header:
 <div style="text-align: center;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=WindDevil&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindDevil&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,javascript,typescript,stylus,makefile,shell" />
 </div>
 -->
 
