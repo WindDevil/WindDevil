@@ -21,6 +21,12 @@ Both are spec-driven: a single specification generates the initial exercise, the
 
 Beyond that I write Rust drivers — mainly for the Intel igb network controller, with [ArceOS](https://github.com/WindDevil/arceos_igb_driver) as the unikernel playground — and tinker with embedded boards (ESP32 + RT-Thread, STM32). I keep notes at [my blog](https://www.cnblogs.com/chenhan-winddevil) (in Chinese).
 
+I'm also interested in **how AI reshapes everyday engineering workflows**. **Claude Code**, **Codex** and **Hermes** are part of my daily loop — for code review, test generation, and turning one-off debugging sessions into reproducible pipelines.
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
+![Hermes](https://img.shields.io/badge/Hermes-6E4AFF?style=for-the-badge)
+
 Before that I received my Master's degree from UESTC (University of Electronic Science and Technology of China) and my Bachelor's degree from GUET (Guilin University of Electronic Technology).
 
 **Contact:** [1160712160@qq.com](mailto:1160712160@qq.com)
