@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="Most used languages">
 <rect width="880" height="260" rx="12" fill="#ffffff"/>
-<path d="M 150.00 30.00 A 100.00 100.00 0 1 1 111.43 222.26 L 126.86 185.36 A 60.00 60.00 0 1 0 150.00 70.00 Z" fill="#555555"/>
-<path d="M 111.43 222.26 A 100.00 100.00 0 0 1 82.59 56.14 L 109.55 85.68 A 60.00 60.00 0 0 0 126.86 185.36 Z" fill="#3572A5"/>
-<path d="M 82.59 56.14 A 100.00 100.00 0 0 1 150.00 30.00 L 150.00 70.00 A 60.00 60.00 0 0 0 109.55 85.68 Z" fill="#dea584"/>
-<text x="150" y="124" text-anchor="middle" fill="#00000f" font-size="20" font-weight="600">2.7 MB</text>
+<path d="M 150.00 30.00 A 100.00 100.00 0 1 1 113.67 223.17 L 128.20 185.90 A 60.00 60.00 0 1 0 150.00 70.00 Z" fill="#555555"/>
+<path d="M 113.67 223.17 A 100.00 100.00 0 0 1 83.30 55.50 L 109.98 85.30 A 60.00 60.00 0 0 0 128.20 185.90 Z" fill="#3572A5"/>
+<path d="M 83.30 55.50 A 100.00 100.00 0 0 1 150.00 30.00 L 150.00 70.00 A 60.00 60.00 0 0 0 109.98 85.30 Z" fill="#dea584"/>
+<text x="150" y="124" text-anchor="middle" fill="#00000f" font-size="20" font-weight="600">2.8 MB</text>
 <text x="150" y="148" text-anchor="middle" fill="#57606a" font-size="13">of source code</text>
 <rect x="320" y="49" width="12" height="12" rx="3" fill="#555555"/>
 <text x="342" y="60" fill="#00000f" font-size="15">C</text>
-<text x="840" y="60" fill="#57606a" font-size="15" text-anchor="end">56.3%</text>
+<text x="840" y="60" fill="#57606a" font-size="15" text-anchor="end">55.9%</text>
 <rect x="320" y="79" width="12" height="12" rx="3" fill="#3572A5"/>
 <text x="342" y="90" fill="#00000f" font-size="15">Python</text>
-<text x="840" y="90" fill="#57606a" font-size="15" text-anchor="end">31.9%</text>
+<text x="840" y="90" fill="#57606a" font-size="15" text-anchor="end">32.5%</text>
 <rect x="320" y="109" width="12" height="12" rx="3" fill="#dea584"/>
 <text x="342" y="120" fill="#00000f" font-size="15">Rust</text>
-<text x="840" y="120" fill="#57606a" font-size="15" text-anchor="end">11.8%</text>
-<text x="40" y="242" fill="#57606a" font-size="12">public repositories, excluding vendored code · updated 2026-09-21</text>
+<text x="840" y="120" fill="#57606a" font-size="15" text-anchor="end">11.6%</text>
+<text x="40" y="242" fill="#57606a" font-size="12">public repositories, excluding vendored code · updated 2026-09-22</text>
 </svg>
