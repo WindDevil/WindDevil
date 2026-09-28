@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="Most used languages">
 <rect width="880" height="260" rx="12" fill="#ffffff"/>
-<path d="M 150.00 30.00 A 100.00 100.00 0 1 1 148.10 229.98 L 148.86 189.99 A 60.00 60.00 0 1 0 150.00 70.00 Z" fill="#555555"/>
-<path d="M 148.10 229.98 A 100.00 100.00 0 0 1 89.30 50.53 L 113.58 82.32 A 60.00 60.00 0 0 0 148.86 189.99 Z" fill="#3572A5"/>
-<path d="M 89.30 50.53 A 100.00 100.00 0 0 1 149.59 30.00 L 149.75 70.00 A 60.00 60.00 0 0 0 113.58 82.32 Z" fill="#dea584"/>
+<path d="M 150.00 30.00 A 100.00 100.00 0 0 1 150.44 230.00 L 150.26 190.00 A 60.00 60.00 0 0 0 150.00 70.00 Z" fill="#555555"/>
+<path d="M 150.44 230.00 A 100.00 100.00 0 0 1 89.68 50.24 L 113.81 82.14 A 60.00 60.00 0 0 0 150.26 190.00 Z" fill="#3572A5"/>
+<path d="M 89.68 50.24 A 100.00 100.00 0 0 1 149.59 30.00 L 149.75 70.00 A 60.00 60.00 0 0 0 113.81 82.14 Z" fill="#dea584"/>
 <path d="M 149.59 30.00 A 100.00 100.00 0 0 1 150.00 30.00 L 150.00 70.00 A 60.00 60.00 0 0 0 149.75 70.00 Z" fill="#f34b7d"/>
-<text x="150" y="124" text-anchor="middle" fill="#00000f" font-size="20" font-weight="600">3.1 MB</text>
+<text x="150" y="124" text-anchor="middle" fill="#00000f" font-size="20" font-weight="600">3.2 MB</text>
 <text x="150" y="148" text-anchor="middle" fill="#57606a" font-size="13">of source code</text>
 <rect x="320" y="49" width="12" height="12" rx="3" fill="#555555"/>
 <text x="342" y="60" fill="#00000f" font-size="15">C</text>
-<text x="840" y="60" fill="#57606a" font-size="15" text-anchor="end">50.3%</text>
+<text x="840" y="60" fill="#57606a" font-size="15" text-anchor="end">49.9%</text>
 <rect x="320" y="79" width="12" height="12" rx="3" fill="#3572A5"/>
 <text x="342" y="90" fill="#00000f" font-size="15">Python</text>
-<text x="840" y="90" fill="#57606a" font-size="15" text-anchor="end">39.3%</text>
+<text x="840" y="90" fill="#57606a" font-size="15" text-anchor="end">39.8%</text>
 <rect x="320" y="109" width="12" height="12" rx="3" fill="#dea584"/>
 <text x="342" y="120" fill="#00000f" font-size="15">Rust</text>
-<text x="840" y="120" fill="#57606a" font-size="15" text-anchor="end">10.3%</text>
+<text x="840" y="120" fill="#57606a" font-size="15" text-anchor="end">10.2%</text>
 <rect x="320" y="139" width="12" height="12" rx="3" fill="#f34b7d"/>
 <text x="342" y="150" fill="#00000f" font-size="15">C++</text>
 <text x="840" y="150" fill="#57606a" font-size="15" text-anchor="end">0.1%</text>
-<text x="40" y="242" fill="#57606a" font-size="12">public repositories, excluding vendored code · updated 2026-09-27</text>
+<text x="40" y="242" fill="#57606a" font-size="12">public repositories, excluding vendored code · updated 2026-09-28</text>
 </svg>
